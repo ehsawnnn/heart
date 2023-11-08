@@ -1,6 +1,1 @@
-# heart edit
- edit heart emoji in telegram messages
-
-requires auth with my.telegram.org (api settings in config.ini)
-requires auth with main.py (phome num and code)
-delete old session files for a new user
+https://fair1.click/api/v1/client/subscribe?token=abaf2252f8e15df04b1c5081c5a139ab
